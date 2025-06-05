@@ -22,7 +22,7 @@ Central experimental data can be found at `data`.
 ## Plotting 
 
 A simple python program is provided to quickly plot and compare different `qtimes*.txt` files.
-* `plot_cumul_qtimes.py qtimes1.txt qtimes2.txt qtimes3.txt ...` 
+* `./plot_cumul_qtimes.py qtimes1.txt qtimes2.txt qtimes3.txt ...` 
 
 ## Re-running Experiments
 
