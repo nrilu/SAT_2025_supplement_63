@@ -1,0 +1,42 @@
+
+UNSAT $3<1 && ((NF==3 && $3 < 300/5) || (NF==5 && $5/$3 > 5))
+3 11db226d109e82f93aaa3b2604173ff9 /hppfs/work/pn72pu/di82qij/instances/2023/11db226d109e82f93aaa3b2604173ff9-posixpath__joinrealpath_13.cnf.xz Lingeling-3
+3 21bde0ebb111c637a1ae8789827b0b73 /hppfs/work/pn72pu/di82qij/instances/2023/21bde0ebb111c637a1ae8789827b0b73-WCNF_from_fp_13.cnf.xz Lingeling-3
+8 24bdfb34654b1aa703fae31ea91e7c7f /hppfs/work/pn72pu/di82qij/instances/2024/24bdfb34654b1aa703fae31ea91e7c7f-tseitin_d3_n158.sanitized.cnf.xz Lingeling-184
+3 385e2c7010a419a9bd47b9258c9d2903 /hppfs/work/pn72pu/di82qij/instances/2023/385e2c7010a419a9bd47b9258c9d2903-tseitin_d3_n200.cnf.xz Lingeling-278
+3 41a8365f60db55b71d949df6954e0db7 /hppfs/work/pn72pu/di82qij/instances/2023/41a8365f60db55b71d949df6954e0db7-FileObject_open_13.cnf.xz Lingeling-3
+3 44092fcc83a5cba81419e82cfd18602c /hppfs/work/pn72pu/di82qij/instances/2023/44092fcc83a5cba81419e82cfd18602c-php-010-009.shuffled-as.sat05-1185.cnf.xz Lingeling-3
+6 558ce551d2b933b7a5f1c7d2a6044930 /hppfs/work/pn72pu/di82qij/instances/2023/558ce551d2b933b7a5f1c7d2a6044930-collections_namedtuple_15.cnf.xz Lingeling-6
+3 7aaf3275cbe217044ef305f0a1ca8eb5 /hppfs/work/pn72pu/di82qij/instances/2023/7aaf3275cbe217044ef305f0a1ca8eb5-CNFPlus_from_fp_12.cnf.xz Lingeling-3
+6 835ac60ca83af6f334b64b61c4ad345b /hppfs/work/pn72pu/di82qij/instances/2023/835ac60ca83af6f334b64b61c4ad345b-tseitin_d3_n160.cnf.xz Lingeling-6
+3 965ca988015c9aee5a1a7b2136c1fe5d /hppfs/work/pn72pu/di82qij/instances/2023/965ca988015c9aee5a1a7b2136c1fe5d-os_fwalk_12.cnf.xz Lingeling-3
+3 a4b05fbc5be28207b704e1fae4b7c8a0 /hppfs/work/pn72pu/di82qij/instances/2023/a4b05fbc5be28207b704e1fae4b7c8a0-FileObject_open_12.cnf.xz Lingeling-3
+3 aa39c6d885d283a085d033ab7b89f8c8 /hppfs/work/pn72pu/di82qij/instances/2024/aa39c6d885d283a085d033ab7b89f8c8-urq45.cnf.xz Lingeling-3
+4 af1e84bc2ab44d87d1c4c0cbf9e601c5 /hppfs/work/pn72pu/di82qij/instances/2023/af1e84bc2ab44d87d1c4c0cbf9e601c5-posixpath_expanduser_14.cnf.xz Lingeling-4
+3 b09585f2346c207e9e14a3daf0de46cf /hppfs/work/pn72pu/di82qij/instances/2023/b09585f2346c207e9e14a3daf0de46cf-CNF_to_alien_11.cnf.xz Lingeling-3
+3 b2145c28dbed385329ea73a06d9c519a /hppfs/work/pn72pu/di82qij/instances/2023/b2145c28dbed385329ea73a06d9c519a-LZMAFile___init___14.cnf.xz Lingeling-3
+3 d17aa530bbd09452b0f32daf4ab9c8f0 /hppfs/work/pn72pu/di82qij/instances/2023/d17aa530bbd09452b0f32daf4ab9c8f0-tph8.cnf.xz Lingeling-3
+3 dd169198070f9aa35015de65e8209a05 /hppfs/work/pn72pu/di82qij/instances/2023/dd169198070f9aa35015de65e8209a05-LZMAFile_write_12.cnf.xz Lingeling-3
+
+SAT (NF==3 && $3 < 300/5) || (NF==5 && $5/$3 > 5)
+1 0c9da400944b002f90fd385d4fdab385 /hppfs/work/pn72pu/di82qij/instances/2023/0c9da400944b002f90fd385d4fdab385-DivS_568_11.cnf.sanitized.cnf.xz Lingeling-1
+2 30f0db845937bbda3ffde60e5ed4cb3f /hppfs/work/pn72pu/di82qij/instances/2024/30f0db845937bbda3ffde60e5ed4cb3f-Folkman-190-66337703.sanitized.cnf.xz Lingeling-816
+  38833d6a1ff6a56ef22bd2dc1e3fdde7 /hppfs/work/pn72pu/di82qij/instances/2023/38833d6a1ff6a56ef22bd2dc1e3fdde7-rbsat-v1150c84314gyes10.cnf.xz Cadical-835
+2 41f4cb4992a481c9d43e2e1a4e2349ac /hppfs/work/pn72pu/di82qij/instances/2024/41f4cb4992a481c9d43e2e1a4e2349ac-sgen1-sat-180-100.cnf.xz Lingeling-596
+6 59825ed96dc3bbdbd8789a4870b323ec /hppfs/work/pn72pu/di82qij/instances/2024/59825ed96dc3bbdbd8789a4870b323ec-hcp_CP18_18.cnf.xz Lingeling-259
+6 697c96ac45534726c7dbd96faa11a86a /hppfs/work/pn72pu/di82qij/instances/2024/697c96ac45534726c7dbd96faa11a86a-x9-11094.sat.sanitized.cnf.xz Lingeling-215
+2 751402d0738e5622b599c651283cb48a /hppfs/work/pn72pu/di82qij/instances/2023/751402d0738e5622b599c651283cb48a-SCPC-800-43.cnf.xz Lingeling-46
+2 773f3bd29e202ff700d8b5b459857a2c /hppfs/work/pn72pu/di82qij/instances/2024/773f3bd29e202ff700d8b5b459857a2c-Folkman-175-9054056.sanitized.cnf.xz Lingeling-398
+2 9de6ddddf7fde06bf2efd955e2bd1a83 /hppfs/work/pn72pu/di82qij/instances/2023/9de6ddddf7fde06bf2efd955e2bd1a83-SCPC-700-84.cnf.xz Lingeling-816
+  a09a2d7397732447bdcc9651973767b7 /hppfs/work/pn72pu/di82qij/instances/2023/a09a2d7397732447bdcc9651973767b7-TableSymModel_output_6_5_6.bul_.dimacs.cnf.xz Kissat-959
+2 b3167d999edd81291f33636464f2f8e6 /hppfs/work/pn72pu/di82qij/instances/2024/b3167d999edd81291f33636464f2f8e6-Folkman-190-104806020.sanitized.cnf.xz Lingeling-596
+2 c1b5c3d1016de7baeb0ddb3a2ab2d891 /hppfs/work/pn72pu/di82qij/instances/2023/c1b5c3d1016de7baeb0ddb3a2ab2d891-SCPC-900-27.cnf.xz Lingeling-2
+2 c73edc350cfa8e07af58db50054aea45 /hppfs/work/pn72pu/di82qij/instances/2024/c73edc350cfa8e07af58db50054aea45-noL-11-12.sanitized.cnf.xz Lingeling-739
+2 cea96962ebd736646af54d950943d909 /hppfs/work/pn72pu/di82qij/instances/2023/cea96962ebd736646af54d950943d909-SCPC-800-41.cnf.xz Lingeling-266
+3 d11944fbca2dd6540f18bd05b6ccda0c /hppfs/work/pn72pu/di82qij/instances/2024/d11944fbca2dd6540f18bd05b6ccda0c-mdp-32-14-sat.cnf.xz Lingeling-322
+2 d40a68825bdbcdd7642b249325a7b6a2 /hppfs/work/pn72pu/di82qij/instances/2024/d40a68825bdbcdd7642b249325a7b6a2-Folkman-180-5383714.sanitized.cnf.xz Lingeling-2
+  da929c2aefde5e59878ad87c4323e581 /hppfs/work/pn72pu/di82qij/instances/2024/da929c2aefde5e59878ad87c4323e581-pcmax-scheduling-m12-8049-55035-SAT.sanitized.cnf.xz Kissat-617
+2 de7a6b03999e2bc5bd750831c2662a4d /hppfs/work/pn72pu/di82qij/instances/2024/de7a6b03999e2bc5bd750831c2662a4d-noL-11-18.sanitized.cnf.xz Lingeling-376
+2 eecdcc36d35f06224cc972cbb08de804 /hppfs/work/pn72pu/di82qij/instances/2023/eecdcc36d35f06224cc972cbb08de804-SCPC-1000-18.cnf.xz Lingeling-376
+2 ef16970ab9da31165d3c401ff9b29168 /hppfs/work/pn72pu/di82qij/instances/2024/ef16970ab9da31165d3c401ff9b29168-Folkman-185-152478531.sanitized.cnf.xz Lingeling-288
+2 f35ed23733431177436a1e7797c07dfe /hppfs/work/pn72pu/di82qij/instances/2023/f35ed23733431177436a1e7797c07dfe-SCPC-900-31.cnf.xz Lingeling-706
