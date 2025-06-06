@@ -3,7 +3,8 @@
 
 ## Software
 
-* Mallob(Sat): https://github.com/domschrei/mallob/tree/152e7c4c07fbdafccb66f05acd289f7fc3287336
+* Mallob(Sat): located in this repository under [mallob/](/mallob/)
+    * Upstream URL: https://github.com/domschrei/mallob/tree/152e7c4c07fbdafccb66f05acd289f7fc3287336
 * PL-PRS-BVA-KISSAT (a.k.a. `painless-2`): fetched from SAT Competition website: https://satcompetition.github.io/2024/downloads/solvers/parallel.tar.xz
 
 ## Benchmarks
